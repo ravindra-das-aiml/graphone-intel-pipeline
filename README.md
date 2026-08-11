@@ -1,4 +1,9 @@
-# GraphOne / FrontierAtlas — Intelligence Graph Pipeline (Demo Task)
+# GraphOne / FrontierAtlas — Intelligence Graph Pipeline (AI Engineer Demo Task)
+
+All 6 phases of the brief are implemented and run against real, verifiable
+sources — no fabricated/hallucinated records anywhere in the outputs.
+
+**Google Sheet (6 tabs, live data):** [link here]
 
 ## Setup
 
@@ -6,47 +11,83 @@
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
-cp .env.example .env            # then fill in your real API keys
+cp .env.example .env            # then fill in your own API keys
 ```
 
-## Phase I — Research Papers Scraper
+## Phase I — Research Papers, Startups & Products
 
 ```bash
 cd src/scrapers
-python arxiv_scraper.py --query "cat:cs.AI" --max-results 1000 --output ../../data/research_papers.json
+python arxiv_scraper.py --query "cat:cs.AI" --max-results 1000
+python startups_products_scraper.py --max-companies 1000
 ```
 
-- Pulls papers from the Arxiv API (no auth needed, no Cloudflare — good
-  first target since it's reliable).
-- For each paper, looks up an associated GitHub repo via the Papers
-  with Code API, then fetches its **current** star count from the
-  GitHub REST API.
-- Concurrency is controlled by a semaphore (`CONCURRENCY` in the
-  script) so it doesn't trip 429s. Every request has exponential
-  backoff + jitter built in.
-- Output matches the `RESEARCH_PAPER` schema in the task brief
-  exactly, written as a JSON array to `data/research_papers.json`.
-- To scale toward 500k+: raise `CONCURRENCY`, run multiple category
-  queries in parallel processes/machines, and swap the single JSON
-  file sink for a queue (e.g. SQS/Kafka) writing into a database. No
-  logic changes needed — just infrastructure.
+- **Papers**: pulled from the Arxiv API. For each paper, we search GitHub's
+  own Search API for a repo referencing the paper's Arxiv ID in its README,
+  and pull that repo's live star count in the same call. (Papers with Code
+  was shut down by Meta in July 2025, so we don't depend on it.)
+- **Startups**: pulled from `yc-oss/api`, a daily-updated static mirror of
+  Y Combinator's company directory — 1,000 real, funded companies.
+- **Products**: for each startup, we fetch its real website's pricing page
+  (`/pricing`, `/plans`, etc.) and classify `pricingModel` from keyword
+  heuristics against the *actual fetched text* — never guessed. If no
+  pricing signal is found, the field is left null rather than invented.
+- All three scrapers are async (aiohttp), with a concurrency semaphore and
+  exponential-backoff-with-jitter retries on 429/403/5xx. To scale toward
+  500k+: raise concurrency, shard the source (Arxiv categories / YC
+  batches), and swap the JSON file sink for a queue → database. No logic
+  changes needed, only infrastructure — see `architecture.pdf`.
+
+## Phase II — News + Jobs (24h freshness)
+
+```bash
+python news_jobs_scraper.py --hours 24
+```
+
+- 5 real AI news RSS feeds (TechCrunch, VentureBeat, The Verge, Ars
+  Technica, MIT Tech Review) — full article text extracted with
+  BeautifulSoup, not just the RSS summary.
+- 3 real job-board APIs/feeds (RemoteOK, Arbeitnow, We Work Remotely),
+  filtered to AI/ML roles posted in the last 24 hours.
+- Includes a `parse_relative_date()` fallback for sources that only give
+  relative timestamps ("2 hours ago") instead of structured dates.
+- Freshness filtering is strict: if a source has nothing genuinely new in
+  the window, we return zero rather than backfilling with older items.
+
+## Phase III — Multi-Tier LLM Extraction Engine
+
+```bash
+cd ../utils
+python llm_extractor.py --news-input ../../data/news.json --news-output ../../data/news_enriched.json
+```
+
+- Fallback chain: **Gemini Flash → Groq (Llama 3) → DeepSeek**.
+- 429s get exponential backoff + jitter, retried on the same provider
+  first, then fall through to the next provider.
+- 413s trigger `chunk_text()` — the payload is split into smaller pieces
+  and re-extracted, rather than retried as-is.
+- All three providers failing returns `None`, not a fabricated result.
+
+## Phase IV — Entity Resolution
+
+```bash
+python entity_resolver.py
+```
+
+- Two-stage matching against a 50-company canonical seed list: (1)
+  normalized exact match after stripping legal suffixes (Inc., LLC, PBC...),
+  (2) fuzzy match (stdlib `difflib`) above a conservative similarity cutoff.
+- Every match is logged with its method and confidence score. Unmatched
+  names are left as-is rather than force-merged.
+- Verified against the brief's own example: `"OpenAI"`, `"OpenAI, Inc."`,
+  and `"Open AI"` all resolve to canonical `"OpenAI"`.
+
+## Phase V & VI — Anti-Bot Strategy + Architecture
+
+See `architecture.pdf` (2 pages): scale strategy, 413/429 handling,
+distributed freshness tracking, storage strategy (Postgres + Neo4j +
+vector DB + Redis), and the anti-bot approach (aiohttp-first, Playwright
+fallback tier with residential proxies + stealth patches for
+Cloudflare/Datadome-protected sources).
 
 ## Project structure
-
-```
-src/
-  scrapers/       # Phase I & II — data acquisition
-  utils/          # shared helpers (retry, dedupe, etc.)
-data/             # scraper output (JSON), not committed if large
-architecture.pdf  # Phase VI design doc (added separately)
-```
-
-## Status
-
-- [x] Phase I — Research papers scraper (Arxiv + GitHub stars)
-- [ ] Phase I — Startups & products scraper
-- [ ] Phase II — News + jobs freshness pipeline
-- [ ] Phase III — LLM fallback extraction engine
-- [ ] Phase IV — Entity resolution
-- [ ] Phase V — Anti-bot documentation
-- [ ] Phase VI — Architecture doc

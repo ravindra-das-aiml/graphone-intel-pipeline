@@ -3,7 +3,7 @@
 All 6 phases of the brief are implemented and run against real, verifiable
 sources — no fabricated/hallucinated records anywhere in the outputs.
 
-**Google Sheet (6 tabs, live data):** [link here]
+**Google Sheet (6 tabs, live data):** https://docs.google.com/spreadsheets/d/1Md_ntVWBVzyF7S8wUhTAB-Sfa3Grp4zZYRhr-j9aAjI/edit?usp=sharing
 
 ## Setup
 
@@ -91,3 +91,21 @@ fallback tier with residential proxies + stealth patches for
 Cloudflare/Datadome-protected sources).
 
 ## Project structure
+
+src/
+  scrapers/   # Phase I & II — data acquisition
+  utils/      # Phase III & IV — LLM extraction, entity resolution
+data/         # scraper outputs (JSON) + CSVs for the Google Sheet
+architecture.pdf
+json_to_csv.py  # converts data/*.json into Sheet-ready CSVs
+
+## Status — all phases complete
+
+- [x] Phase I — Research papers (1,000, with live GitHub stars where found)
+- [x] Phase I — Startups (1,000, real YC data) & Products (1,000, real
+      pricing where detected)
+- [x] Phase II — News (24h-fresh) + Jobs (24h-fresh)
+- [x] Phase III — LLM fallback extraction engine
+- [x] Phase IV — Entity resolution
+- [x] Phase V — Anti-bot documentation
+- [x] Phase VI — Architecture doc

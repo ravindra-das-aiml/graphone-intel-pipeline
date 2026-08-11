@@ -1,0 +1,1362 @@
+[
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/oper/ai-native-business-analyst-dach-mannheim-198122"
+    },
+    "content": {
+      "company": "Oper",
+      "date": "2026-08-10T16:00:32+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "title": "AI-Native Business Analyst - DACH"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/rockstardevelopers-gmbh/solution-architect-aws-plattform-cloud-security-stuttgart-12120"
+    },
+    "content": {
+      "company": "Rockstardevelopers GmbH",
+      "date": "2026-08-10T15:00:24+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "title": "Solution Architect - AWS Plattform & Cloud Security (m/w/d)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/unframe/ai-transformation-architect-emea-158407"
+    },
+    "content": {
+      "company": "Unframe",
+      "date": "2026-08-10T14:55:33+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "AI Transformation Architect EMEA"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-sales-engineer-174596"
+    },
+    "content": {
+      "company": "Veeamsoftware",
+      "date": "2026-08-10T14:55:23+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "title": "Senior Sales Engineer"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/taxfix/programme-manager-office-of-the-cfo-berlin-397898"
+    },
+    "content": {
+      "company": "Taxfix",
+      "date": "2026-08-10T14:40:11+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Programme Manager (d/f/m) - Office of the CFO"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/wakeline-gmbh/software-engineer-dusseldorf-255527"
+    },
+    "content": {
+      "company": "Wakeline GmbH",
+      "date": "2026-08-10T14:30:43+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Software Engineer"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/1komma50/praktikantin-sales-marketing-berlin-118974"
+    },
+    "content": {
+      "company": "1KOMMA5˚",
+      "date": "2026-08-10T14:30:40+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Praktikant:in (m/w/d) - Sales/Marketing"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/kickdown-gmbh/working-student-product-engineering-ruby-on-rails-for-auction-platform-kickdown-all-genders-hamburg-460221"
+    },
+    "content": {
+      "company": "Kickdown GmbH",
+      "date": "2026-08-10T14:30:39+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Working Student Product Engineering (Ruby on Rails) for Auction Platform Kickdown (all genders)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/fairtrade-labelling-organizations-international-ev/project-officer-ec-ffpa-maternity-cover-bonn-452624"
+    },
+    "content": {
+      "company": "Fairtrade Labelling Organizations International e.V.",
+      "date": "2026-08-10T12:18:28+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Project Officer EC-FFPA (maternity cover)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/id1/remote-ux-designer-design-ki-59228"
+    },
+    "content": {
+      "company": "Id1",
+      "date": "2026-08-10T14:10:02+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "UX Designer (m/w/d) – Design & KI"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/adsquare/staff-backend-engineer-jvm-java-kotlin-aws-berlin-331742"
+    },
+    "content": {
+      "company": "Adsquare",
+      "date": "2026-08-10T14:10:01+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Staff Backend Engineer - JVM (Java/Kotlin) & AWS"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/tech-advisory-senior-consultant-munchen-142641"
+    },
+    "content": {
+      "company": "Trusteq Gmbh",
+      "date": "2026-08-10T14:09:55+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Tech Advisory Senior Consultant (m/w/d)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/digital-ecosystem-working-student-munchen-54862"
+    },
+    "content": {
+      "company": "Trusteq Gmbh",
+      "date": "2026-08-10T14:09:55+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Digital Ecosystem Working Student (m/w/d)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-working-student-munchen-408577"
+    },
+    "content": {
+      "company": "Trusteq Gmbh",
+      "date": "2026-08-10T14:09:55+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Cybersecurity Working Student (m/w/d)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/cybersecurity-intern-munchen-101977"
+    },
+    "content": {
+      "company": "Trusteq Gmbh",
+      "date": "2026-08-10T14:09:55+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Cybersecurity Intern (m/w/d)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-strategy-senior-consultant-munchen-344795"
+    },
+    "content": {
+      "company": "Trusteq Gmbh",
+      "date": "2026-08-10T14:09:55+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "AI Strategy (Senior) Consultant (m/w/d)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-security-senior-consultant-munchen-332201"
+    },
+    "content": {
+      "company": "Trusteq Gmbh",
+      "date": "2026-08-10T14:09:55+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "AI Security (Senior) Consultant (m/w/d)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-governance-senior-consultant-munchen-404845"
+    },
+    "content": {
+      "company": "Trusteq Gmbh",
+      "date": "2026-08-10T14:09:55+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "AI Governance (Senior) Consultant (m/w/d)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-senior-developer-munchen-489080"
+    },
+    "content": {
+      "company": "Trusteq Gmbh",
+      "date": "2026-08-10T14:09:55+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "AI (Senior) Developer (m/w/d)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-senior-consultant-munchen-430823"
+    },
+    "content": {
+      "company": "Trusteq Gmbh",
+      "date": "2026-08-10T14:09:55+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "AI (Senior) Consultant (m/w/d)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/smartly/senior-engineering-manager-ad-performance-recommendation-berlin-242083"
+    },
+    "content": {
+      "company": "Smartly",
+      "date": "2026-08-10T13:45:26+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Engineering Manager, Ad Performance Recommendation"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/urban-sports-club/senior-product-designer-all-genders-berlin-46680"
+    },
+    "content": {
+      "company": "Urban Sports Club",
+      "date": "2026-08-10T13:45:24+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Product Designer (all genders)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/tc-flights-germany-gmbh/product-owner-data-ai-fluegede-leipzig-104383"
+    },
+    "content": {
+      "company": "TC Flights Germany GmbH",
+      "date": "2026-08-10T13:30:24+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Product Owner Data & AI (m/f/d) – fluege.de"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/klickkonzept-by-cosmo5/online-marketing-manager-digital-marketing-consultant-frankfurt-am-main-201644"
+    },
+    "content": {
+      "company": "Klickkonzept by Cosmo5",
+      "date": "2026-08-10T13:30:23+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Online Marketing Manager / Digital Marketing Consultant (m/w/d)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/klickkonzept-by-cosmo5/amazon-advertising-manager-retail-media-manager-frankfurt-am-main-245199"
+    },
+    "content": {
+      "company": "Klickkonzept by Cosmo5",
+      "date": "2026-08-10T13:30:22+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Amazon Advertising Manager / Retail Media Manager (m/w/d)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/klickkonzept-by-cosmo5/social-media-advertising-manager-paid-social-manager-frankfurt-am-main-388018"
+    },
+    "content": {
+      "company": "Klickkonzept by Cosmo5",
+      "date": "2026-08-10T13:01:40+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Social Media Advertising Manager / Paid Social Manager (m/w/d)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/klickkonzept-by-cosmo5/seo-geo-manager-organic-visibility-manager-frankfurt-am-main-320661"
+    },
+    "content": {
+      "company": "Klickkonzept by Cosmo5",
+      "date": "2026-08-10T13:01:40+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "SEO/GEO Manager / Organic Visibility Manager (m/w/d)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/klickkonzept-by-cosmo5/sea-paid-media-manager-strategischer-account-manager-frankfurt-am-main-475766"
+    },
+    "content": {
+      "company": "Klickkonzept by Cosmo5",
+      "date": "2026-08-10T13:01:40+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "SEA Paid Media Manager / Strategischer Account Manager (m/w/d)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/klickkonzept-by-cosmo5/online-marketing-trainee-frankfurt-am-main-147281"
+    },
+    "content": {
+      "company": "Klickkonzept by Cosmo5",
+      "date": "2026-08-10T13:01:39+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Online Marketing Trainee (m/w/d)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/windhoff-group/sap-basis-senior-consultant-gescher-378711"
+    },
+    "content": {
+      "company": "Windhoff Group",
+      "date": "2026-08-10T13:01:26+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "title": "SAP Basis (Senior) Consultant (m/w/d)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/sleak-gmbh/associate-account-executive-munich-272840"
+    },
+    "content": {
+      "company": "Sleak GmbH",
+      "date": "2026-08-10T12:30:31+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Associate Account Executive"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/sleak-gmbh/account-executive-mid-market-enterprise-munich-336494"
+    },
+    "content": {
+      "company": "Sleak GmbH",
+      "date": "2026-08-10T12:30:30+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Account Executive - Mid-Market & Enterprise"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/santos-grills-gmbh/ai-solutions-operations-manager-cologne-225125"
+    },
+    "content": {
+      "company": "Santos Grills GmbH",
+      "date": "2026-08-10T12:00:41+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "AI Solutions & Operations Manager (m/w/d)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/dept/senior-copywriter-5-month-ftc-berlin-united-kingdom-manchester-382199"
+    },
+    "content": {
+      "company": "dept",
+      "date": "2026-08-10T11:55:11+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Copywriter (5 month FTC)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/dept/senior-account-manager-5-month-ftc-berlin-united-kingdom-manchester-london-399896"
+    },
+    "content": {
+      "company": "dept",
+      "date": "2026-08-10T11:55:11+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Account Manager (5 month FTC)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/notarpartner-gmbh/engineering-lead-ts-react-nextjs-ai-100-remote-hamburg-153675"
+    },
+    "content": {
+      "company": "NotarPartner GmbH",
+      "date": "2026-08-10T11:30:43+00:00",
+      "is_remote": true,
+      "role_family": "Engineering",
+      "title": "Engineering Lead (m/w/d) TS, React, Next.js & AI 100% Remote"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.com/jobs/companies/teaching-socials/buchhalter-hockenheim-467499"
+    },
+    "content": {
+      "company": "Teaching Socials",
+      "date": "2026-08-10T11:30:43+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Buchhalter (m/w/d)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/precisionmedicinegroup/remote-engineering-director-284807"
+    },
+    "content": {
+      "company": "Precisionmedicinegroup",
+      "date": "2026-08-10T15:55:33+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Engineering Director"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/cloudflare/senior-data-analyst-hybrid-7351"
+    },
+    "content": {
+      "company": "Cloudflare",
+      "date": "2026-08-10T15:55:31+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Data Analyst"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver/senior-account-manager-london-358238"
+    },
+    "content": {
+      "company": "Oliver",
+      "date": "2026-08-10T15:55:29+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Account Manager"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/conveo/sales-director-london-214401"
+    },
+    "content": {
+      "company": "Conveo",
+      "date": "2026-08-10T15:40:32+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Sales Director"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/supply-chain-coordinator-london-126168"
+    },
+    "content": {
+      "company": "Deliveroo",
+      "date": "2026-08-10T15:40:29+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Supply Chain Coordinator"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-manager-indirect-tax-vat-london-246492"
+    },
+    "content": {
+      "company": "Checkout.com",
+      "date": "2026-08-10T15:40:14+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Manager, Indirect Tax & VAT"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wpp-production/senior-digital-project-manager-london-345248"
+    },
+    "content": {
+      "company": "WPP Production",
+      "date": "2026-08-10T14:45:26+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Digital Project Manager"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver-agency/senior-account-manager-london-187820"
+    },
+    "content": {
+      "company": "OLIVER Agency",
+      "date": "2026-08-10T14:45:21+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Account Manager"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-engineering-manager-268184"
+    },
+    "content": {
+      "company": "prolific",
+      "date": "2026-08-10T12:55:57+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Engineering Manager"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/veeamsoftware/lead-account-executive-defense-and-public-uki-london-279263"
+    },
+    "content": {
+      "company": "Veeamsoftware",
+      "date": "2026-08-10T12:55:55+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Lead Account Executive, Defense and Public UK&I"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/chaosindustries/senior-software-engineer-london-394281"
+    },
+    "content": {
+      "company": "Chaosindustries",
+      "date": "2026-08-10T12:55:49+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Software Engineer"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/chaosindustries/forward-deployed-engineer-software-london-171035"
+    },
+    "content": {
+      "company": "Chaosindustries",
+      "date": "2026-08-10T12:55:49+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Forward Deployed Engineer - Software"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/chaosindustries/cybersecurity-soc-analyst-ii-london-39758"
+    },
+    "content": {
+      "company": "Chaosindustries",
+      "date": "2026-08-10T12:55:48+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Cybersecurity SOC Analyst II"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/alphasense/account-executive-financial-services-investment-banking-london-greater-london-358059"
+    },
+    "content": {
+      "company": "Alphasense",
+      "date": "2026-08-10T12:55:44+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Account Executive, Financial Services -  Investment Banking"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/diligentcorporation/senior-solutions-engineer-london-85613"
+    },
+    "content": {
+      "company": "Diligentcorporation",
+      "date": "2026-08-10T12:55:21+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Solutions Engineer"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/diligentcorporation/account-executive-nsw-sydney-australia-460781"
+    },
+    "content": {
+      "company": "Diligentcorporation",
+      "date": "2026-08-10T12:55:21+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Account Executive - NSW"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/diligentcorporation/account-executive-sydney-australia-35938"
+    },
+    "content": {
+      "company": "Diligentcorporation",
+      "date": "2026-08-10T12:55:21+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Account Executive"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/unity-advisory/fdd-manager-london-348278"
+    },
+    "content": {
+      "company": "Unity Advisory",
+      "date": "2026-08-10T12:40:07+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "FDD Manager"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/marqvision/senior-account-executive-london-96682"
+    },
+    "content": {
+      "company": "Marqvision",
+      "date": "2026-08-10T09:55:39+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Account Executive"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/fireblocks/senior-qa-engineer-financial-apps-377885"
+    },
+    "content": {
+      "company": "Fireblocks",
+      "date": "2026-08-10T09:55:06+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior QA Engineer (Financial Apps)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/personal-assistant-london-290057"
+    },
+    "content": {
+      "company": "Bjak",
+      "date": "2026-08-10T09:40:31+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Personal Assistant"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/technical-product-manager-superapp-london-371639"
+    },
+    "content": {
+      "company": "Lendable",
+      "date": "2026-08-10T09:40:15+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Technical Product Manager (Superapp)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/real-time-coordinator-london-kent-266496"
+    },
+    "content": {
+      "company": "Lendable",
+      "date": "2026-08-10T09:40:15+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Real Time Coordinator"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/senior-ai-quality-engineer-london-79753"
+    },
+    "content": {
+      "company": "Lendable",
+      "date": "2026-08-10T09:40:15+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior AI Quality Engineer"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/senior-quality-engineer-ai-london-334599"
+    },
+    "content": {
+      "company": "Lendable",
+      "date": "2026-08-10T09:40:15+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Quality Engineer - AI"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/head-of-business-development-london-419375"
+    },
+    "content": {
+      "company": "Quantum",
+      "date": "2026-08-10T09:40:07+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Head of Business Development"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/kargo22/senior-interactive-designer-london-71705"
+    },
+    "content": {
+      "company": "Kargo22",
+      "date": "2026-08-10T06:55:34+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Interactive Designer"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tanium/remote-director-of-strategic-accounts-central-government-188566"
+    },
+    "content": {
+      "company": "tanium",
+      "date": "2026-08-10T06:55:31+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Director of Strategic Accounts - Central Government"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/iterable/senior-it-engineer-ai-london-31960"
+    },
+    "content": {
+      "company": "Iterable",
+      "date": "2026-08-10T06:55:28+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior IT Engineer (AI)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/iterable/account-executive-commercial-london-107"
+    },
+    "content": {
+      "company": "Iterable",
+      "date": "2026-08-10T06:55:28+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Account Executive (Commercial)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pendo/senior-customer-engineer-pre-post-sales-london-23273"
+    },
+    "content": {
+      "company": "pendo",
+      "date": "2026-08-10T06:55:15+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Customer Engineer - Pre & Post Sales"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pendo/account-director-enterprise-sales-french-markets-london-108053"
+    },
+    "content": {
+      "company": "pendo",
+      "date": "2026-08-10T06:55:15+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Account Director, Enterprise Sales - French Markets"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/lastpass/principal-cloud-security-engineer-49616"
+    },
+    "content": {
+      "company": "Lastpass",
+      "date": "2026-08-10T06:55:11+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Principal Cloud Security Engineer"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/tripadvisor/senior-manager-fpa-portugal-or-poland-34394"
+    },
+    "content": {
+      "company": "tripadvisor",
+      "date": "2026-08-10T06:55:10+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Manager FP&A"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/technical-recruiter-sydney-sydney-australia-204731"
+    },
+    "content": {
+      "company": "Andurilindustries",
+      "date": "2026-08-10T03:55:40+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Technical Recruiter, Sydney"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/staff-software-engineer-sydney-australia-370064"
+    },
+    "content": {
+      "company": "Andurilindustries",
+      "date": "2026-08-10T03:55:40+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Staff Software Engineer"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/staff-platform-engineer-staff-site-reliability-engineer-sydney-australia-315619"
+    },
+    "content": {
+      "company": "Andurilindustries",
+      "date": "2026-08-10T03:55:39+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Staff Platform Engineer / Staff Site Reliability Engineer"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/software-engineer-sydney-australia-322070"
+    },
+    "content": {
+      "company": "Andurilindustries",
+      "date": "2026-08-10T03:55:39+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Software Engineer"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-systems-engineer-sydney-australia-461720"
+    },
+    "content": {
+      "company": "Andurilindustries",
+      "date": "2026-08-10T03:55:38+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Systems Engineer"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-software-engineer-site-reliability-sydney-australia-33258"
+    },
+    "content": {
+      "company": "Andurilindustries",
+      "date": "2026-08-10T03:55:38+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Software Engineer, Site Reliability"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-software-engineer-flight-software-sydney-australia-272592"
+    },
+    "content": {
+      "company": "Andurilindustries",
+      "date": "2026-08-10T03:55:38+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Software Engineer (Flight Software)"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-software-engineer-sydney-australia-55037"
+    },
+    "content": {
+      "company": "Andurilindustries",
+      "date": "2026-08-10T03:55:37+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Software Engineer"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-site-reliability-engineer-sydney-australia-497305"
+    },
+    "content": {
+      "company": "Andurilindustries",
+      "date": "2026-08-10T03:55:37+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Site Reliability Engineer"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-robotics-software-engineer-payload-integration-sydney-australia-71021"
+    },
+    "content": {
+      "company": "Andurilindustries",
+      "date": "2026-08-10T03:55:37+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Robotics Software Engineer, Payload Integration"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-robotics-engineer-sydney-australia-359112"
+    },
+    "content": {
+      "company": "Andurilindustries",
+      "date": "2026-08-10T03:55:37+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Robotics Engineer"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-reliability-engineering-sydney-australia-169781"
+    },
+    "content": {
+      "company": "Andurilindustries",
+      "date": "2026-08-10T03:55:37+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Reliability Engineering"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-platform-engineer-senior-devops-engineer-senior-infrastructure-engineer-senior-site-reliability-engineer-sydney-australia-473787"
+    },
+    "content": {
+      "company": "Andurilindustries",
+      "date": "2026-08-10T03:55:37+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Platform Engineer / Senior DevOps Engineer / Senior Infrastructure Engineer / Senior Site Reliability Engineer"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "JOB",
+    "source": {
+      "name": "Arbeitnow",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-manager-software-engineering-sydney-australia-460044"
+    },
+    "content": {
+      "company": "Andurilindustries",
+      "date": "2026-08-10T03:55:36+00:00",
+      "is_remote": false,
+      "role_family": "Engineering",
+      "title": "Senior Manager, Software Engineering"
+    },
+    "collectedAt": "2026-08-10T17:15:17.700073+00:00"
+  }
+]

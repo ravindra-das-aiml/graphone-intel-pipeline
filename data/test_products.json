@@ -1,0 +1,262 @@
+[
+  {
+    "schemaVersion": "1.0",
+    "recordType": "PRODUCT",
+    "source": {
+      "name": "http://booksolid.com",
+      "url": "http://booksolid.com/pricing"
+    },
+    "content": {
+      "startupName": "BookSolid",
+      "pricingModel": "PAID"
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "PRODUCT",
+    "source": {
+      "name": "https://circuithub.com",
+      "url": "https://circuithub.com/pricing"
+    },
+    "content": {
+      "startupName": "CircuitHub",
+      "pricingModel": "ENTERPRISE"
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "PRODUCT",
+    "source": {
+      "name": "https://rescale.com",
+      "url": "https://rescale.com/pricing"
+    },
+    "content": {
+      "startupName": "Rescale",
+      "pricingModel": "ENTERPRISE"
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "PRODUCT",
+    "source": {
+      "name": "http://icracked.com",
+      "url": "http://icracked.com"
+    },
+    "content": {
+      "startupName": "iCracked",
+      "pricingModel": null
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "PRODUCT",
+    "source": {
+      "name": "http://taptolearn.com",
+      "url": "http://taptolearn.com"
+    },
+    "content": {
+      "startupName": "Tap to Learn",
+      "pricingModel": null
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "PRODUCT",
+    "source": {
+      "name": "http://myvr.com",
+      "url": "http://myvr.com/pricing"
+    },
+    "content": {
+      "startupName": "MyVR",
+      "pricingModel": "PAID"
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "PRODUCT",
+    "source": {
+      "name": "http://wireover.com",
+      "url": "http://wireover.com"
+    },
+    "content": {
+      "startupName": "WireOver",
+      "pricingModel": null
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "PRODUCT",
+    "source": {
+      "name": "http://sendhub.com",
+      "url": "http://sendhub.com/pricing"
+    },
+    "content": {
+      "startupName": "SendHub",
+      "pricingModel": "PAID"
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "PRODUCT",
+    "source": {
+      "name": "http://plangrid.com",
+      "url": "http://plangrid.com/pricing"
+    },
+    "content": {
+      "startupName": "PlanGrid",
+      "pricingModel": "FREEMIUM"
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "PRODUCT",
+    "source": {
+      "name": "http://couple.me",
+      "url": "http://couple.me"
+    },
+    "content": {
+      "startupName": "Couple",
+      "pricingModel": "PAID"
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "PRODUCT",
+    "source": {
+      "name": "http://medigram.com",
+      "url": "http://medigram.com"
+    },
+    "content": {
+      "startupName": "Medigram",
+      "pricingModel": "PAID"
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "PRODUCT",
+    "source": {
+      "name": "http://hireart.com",
+      "url": "http://hireart.com"
+    },
+    "content": {
+      "startupName": "HireArt",
+      "pricingModel": "PAID"
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "PRODUCT",
+    "source": {
+      "name": "http://hipmob.com",
+      "url": "http://hipmob.com"
+    },
+    "content": {
+      "startupName": "Hipmob",
+      "pricingModel": null
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "PRODUCT",
+    "source": {
+      "name": "http://optilly.com",
+      "url": "http://optilly.com"
+    },
+    "content": {
+      "startupName": "Optilly/Installmonetizer",
+      "pricingModel": null
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "PRODUCT",
+    "source": {
+      "name": "https://angel.co/slidepay",
+      "url": "https://angel.co/slidepay"
+    },
+    "content": {
+      "startupName": "SlidePay",
+      "pricingModel": null
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "PRODUCT",
+    "source": {
+      "name": "http://noudata.com",
+      "url": "http://noudata.com"
+    },
+    "content": {
+      "startupName": "Amiato",
+      "pricingModel": null
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "PRODUCT",
+    "source": {
+      "name": "http://hackpad.com",
+      "url": "http://hackpad.com"
+    },
+    "content": {
+      "startupName": "HackPad",
+      "pricingModel": null
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "PRODUCT",
+    "source": {
+      "name": "http://42floors.com",
+      "url": "http://42floors.com"
+    },
+    "content": {
+      "startupName": "42Floors",
+      "pricingModel": null
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "PRODUCT",
+    "source": {
+      "name": "http://themuse.com",
+      "url": "http://themuse.com"
+    },
+    "content": {
+      "startupName": "The Muse",
+      "pricingModel": "PAID"
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "PRODUCT",
+    "source": {
+      "name": "https://gusto.com",
+      "url": "https://gusto.com"
+    },
+    "content": {
+      "startupName": "Gusto",
+      "pricingModel": null
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  }
+]

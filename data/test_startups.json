@@ -1,0 +1,302 @@
+[
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "ycombinator.com",
+      "url": "https://www.ycombinator.com/companies/booksolid"
+    },
+    "content": {
+      "entityName": "BookSolid",
+      "data": {
+        "employeeCount": 0
+      }
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "ycombinator.com",
+      "url": "https://www.ycombinator.com/companies/circuithub"
+    },
+    "content": {
+      "entityName": "CircuitHub",
+      "data": {
+        "employeeCount": 58
+      }
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "ycombinator.com",
+      "url": "https://www.ycombinator.com/companies/rescale"
+    },
+    "content": {
+      "entityName": "Rescale",
+      "data": {
+        "employeeCount": 250
+      }
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "ycombinator.com",
+      "url": "https://www.ycombinator.com/companies/icracked"
+    },
+    "content": {
+      "entityName": "iCracked",
+      "data": {
+        "employeeCount": 51
+      }
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "ycombinator.com",
+      "url": "https://www.ycombinator.com/companies/tap-to-learn"
+    },
+    "content": {
+      "entityName": "Tap to Learn",
+      "data": {
+        "employeeCount": 11
+      }
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "ycombinator.com",
+      "url": "https://www.ycombinator.com/companies/myvr"
+    },
+    "content": {
+      "entityName": "MyVR",
+      "data": {
+        "employeeCount": 15
+      }
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "ycombinator.com",
+      "url": "https://www.ycombinator.com/companies/wireover"
+    },
+    "content": {
+      "entityName": "WireOver",
+      "data": {
+        "employeeCount": 2
+      }
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "ycombinator.com",
+      "url": "https://www.ycombinator.com/companies/sendhub"
+    },
+    "content": {
+      "entityName": "SendHub",
+      "data": {
+        "employeeCount": 51
+      }
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "ycombinator.com",
+      "url": "https://www.ycombinator.com/companies/plangrid"
+    },
+    "content": {
+      "entityName": "PlanGrid",
+      "data": {
+        "employeeCount": 355
+      }
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "ycombinator.com",
+      "url": "https://www.ycombinator.com/companies/couple"
+    },
+    "content": {
+      "entityName": "Couple",
+      "data": {
+        "employeeCount": 2
+      }
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "ycombinator.com",
+      "url": "https://www.ycombinator.com/companies/medigram"
+    },
+    "content": {
+      "entityName": "Medigram",
+      "data": {
+        "employeeCount": 11
+      }
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "ycombinator.com",
+      "url": "https://www.ycombinator.com/companies/hireart"
+    },
+    "content": {
+      "entityName": "HireArt",
+      "data": {
+        "employeeCount": 90
+      }
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "ycombinator.com",
+      "url": "https://www.ycombinator.com/companies/hipmob"
+    },
+    "content": {
+      "entityName": "Hipmob",
+      "data": {
+        "employeeCount": 2
+      }
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "ycombinator.com",
+      "url": "https://www.ycombinator.com/companies/optilly-installmonetizer"
+    },
+    "content": {
+      "entityName": "Optilly/Installmonetizer",
+      "data": {
+        "employeeCount": 11
+      }
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "ycombinator.com",
+      "url": "https://www.ycombinator.com/companies/slidepay"
+    },
+    "content": {
+      "entityName": "SlidePay",
+      "data": {
+        "employeeCount": 2
+      }
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "ycombinator.com",
+      "url": "https://www.ycombinator.com/companies/amiato"
+    },
+    "content": {
+      "entityName": "Amiato",
+      "data": {
+        "employeeCount": 2
+      }
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "ycombinator.com",
+      "url": "https://www.ycombinator.com/companies/hackpad"
+    },
+    "content": {
+      "entityName": "HackPad",
+      "data": {
+        "employeeCount": 2
+      }
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "ycombinator.com",
+      "url": "https://www.ycombinator.com/companies/42floors"
+    },
+    "content": {
+      "entityName": "42Floors",
+      "data": {
+        "employeeCount": 60
+      }
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "ycombinator.com",
+      "url": "https://www.ycombinator.com/companies/the-muse"
+    },
+    "content": {
+      "entityName": "The Muse",
+      "data": {
+        "employeeCount": 60
+      }
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "STARTUP",
+    "source": {
+      "name": "ycombinator.com",
+      "url": "https://www.ycombinator.com/companies/gusto"
+    },
+    "content": {
+      "entityName": "Gusto",
+      "data": {
+        "employeeCount": 2400
+      }
+    },
+    "collectedAt": "2026-08-10T09:12:27.701472+00:00"
+  }
+]

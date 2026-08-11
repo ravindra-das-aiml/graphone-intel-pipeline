@@ -1,0 +1,120 @@
+[
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "arxiv.org",
+      "url": "http://arxiv.org/abs/2608.06377v1"
+    },
+    "content": {
+      "title": "Learning When to Trust via Selective Context Preference Optimization",
+      "authors": [
+        "Xian Sun",
+        "Wei Chow",
+        "Yingshuo Wang",
+        "Junhao Liu",
+        "Wei Gao",
+        "Qing Wu",
+        "Lingdong Kong"
+      ],
+      "paper_url": "http://arxiv.org/abs/2608.06377v1",
+      "github_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+      "github_stars": 113,
+      "published_date": "2026-08-06T17:59:58Z"
+    },
+    "collectedAt": "2026-08-09T21:34:11.562275+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "arxiv.org",
+      "url": "http://arxiv.org/abs/2608.06366v1"
+    },
+    "content": {
+      "title": "Tracing the Heart: An Evidence-Linked Pipeline for Heart-Failure Feature Engineering",
+      "authors": [
+        "Soorya Ram Shimgekar",
+        "Michelle Hu",
+        "Dorisa Shehi",
+        "Daniel Kang",
+        "Roy Ka-Wei Lee",
+        "Koustuv Saha",
+        "Christian Poellabauer",
+        "Christopher Lee",
+        "Sajeev Singh",
+        "Piyum Zonooz",
+        "Navin Kumar",
+        "Zeeshan Ahmed",
+        "Priyadarshini Kachroo"
+      ],
+      "paper_url": "http://arxiv.org/abs/2608.06366v1",
+      "github_url": "https://github.com/Tavish9/awesome-daily-AI-arxiv",
+      "github_stars": 113,
+      "published_date": "2026-08-06T17:57:37Z"
+    },
+    "collectedAt": "2026-08-09T21:34:11.562814+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "arxiv.org",
+      "url": "http://arxiv.org/abs/2608.06364v1"
+    },
+    "content": {
+      "title": "Investigating Artificial Intelligence Digital Sovereignty in Mobile Shopping Apps: A Case Study of Nigeria",
+      "authors": [
+        "George Grispos",
+        "Sajda Qureshi"
+      ],
+      "paper_url": "http://arxiv.org/abs/2608.06364v1",
+      "github_url": null,
+      "github_stars": null,
+      "published_date": "2026-08-06T17:57:28Z"
+    },
+    "collectedAt": "2026-08-09T21:34:11.563011+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "arxiv.org",
+      "url": "http://arxiv.org/abs/2608.06363v1"
+    },
+    "content": {
+      "title": "An Optimal Agnostic PAC Algorithm",
+      "authors": [
+        "Markus Engelund Mathiasen",
+        "Jian Qian",
+        "Nikita Zhivotovskiy"
+      ],
+      "paper_url": "http://arxiv.org/abs/2608.06363v1",
+      "github_url": null,
+      "github_stars": null,
+      "published_date": "2026-08-06T17:57:25Z"
+    },
+    "collectedAt": "2026-08-09T21:34:11.563165+00:00"
+  },
+  {
+    "schemaVersion": "1.0",
+    "recordType": "RESEARCH_PAPER",
+    "source": {
+      "name": "arxiv.org",
+      "url": "http://arxiv.org/abs/2608.06362v1"
+    },
+    "content": {
+      "title": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
+      "authors": [
+        "Boning Li",
+        "Yu Chen",
+        "Longbo Huang"
+      ],
+      "paper_url": "http://arxiv.org/abs/2608.06362v1",
+      "github_url": "https://github.com/Aaron617/agent-arXiv-daily",
+      "github_stars": 10,
+      "published_date": "2026-08-06T17:57:11Z"
+    },
+    "collectedAt": "2026-08-09T21:34:11.563280+00:00"
+  }
+]

@@ -1,0 +1,1001 @@
+schemaVersion,recordType,source_name,source_url,startupName,pricingModel,collectedAt
+1.0,PRODUCT,unknown,https://www.ycombinator.com/companies/flirtey,Flirtey (SkyDrop),,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.clerky.com,https://www.clerky.com/pricing,Clerky,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://nambii.com,http://nambii.com/pricing,Nambii,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://ironcladapp.com,http://ironcladapp.com/pricing,Ironclad,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://zenboxapp.com,http://zenboxapp.com,Zenbox,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://carlypso.com,http://carlypso.com/pricing,Carlypso,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://appharbor.com,https://appharbor.com/pricing,AppHarbor,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.datarank.com,http://www.datarank.com/pricing,Datarank,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.hive.co,http://www.hive.co/pricing,Hive,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://lumoid.com,http://lumoid.com,Lumoid,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://soundfocus.com,http://soundfocus.com,SoundFocus,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://claralabs.com,http://claralabs.com/pricing,Clara Labs,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://paidlabs.com,http://paidlabs.com,Paid,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.checkr.com,http://www.checkr.com/pricing,Checkr,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://svbtle.com,https://svbtle.com,Svbtle,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.tenjin.com,https://www.tenjin.com/pricing,Tenjin,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.polleverywhere.com,https://www.polleverywhere.com/pricing,Poll Everywhere,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://humaninterest.com,http://humaninterest.com/pricing,Human Interest,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://realm.io,http://realm.io/pricing,Realm,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://wufoo.com,http://wufoo.com/pricing,Wufoo,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://meetpoppy.com,http://meetpoppy.com/pricing,Poppy,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.truelinkfinancial.com/,https://www.truelinkfinancial.com,True Link,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://posterous.com,http://posterous.com,Posterous,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://clickfacts.com,http://clickfacts.com/pricing,Clickfacts,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://firebase.com,http://firebase.com/pricing,Firebase,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://9gag.com,http://9gag.com,9gag,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://webflow.com,https://webflow.com/pricing,Webflow,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.openmotors.co,https://www.openmotors.co,Open Motors,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.instacart.com,https://www.instacart.com,Instacart,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://textpayme.com,http://textpayme.com/pricing,TextPayMe,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://clear.in/,https://clear.in,Clear,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://gocardless.com,http://gocardless.com/pricing,GoCardless,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://gemnote.com,http://gemnote.com/pricing,Gemnote,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://tumult.com,https://tumult.com,Tumult,FREE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.craftcoffee.com,https://www.craftcoffee.com,Craft Coffee,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://acunote.com,http://acunote.com/plans,Acunote,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.circuitlab.com/,https://www.circuitlab.com/,CircuitLab,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://screenhero.com,http://screenhero.com/pricing,Screenhero,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://ramp.com/,https://ramp.com/pricing,Paribus,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://jobalchemist.com,http://jobalchemist.com/pricing,Job Alchemist,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://newstoryhomes.org,http://newstoryhomes.org,New Story,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://simmery.com,http://simmery.com/pricing,Simmery,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://tuletechnologies.com,http://tuletechnologies.com/pricing,Tule,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://weilos.com,http://weilos.com,Weilos,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.hellosign.com,https://www.hellosign.com,HelloSign,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://instapainting.com,http://instapainting.com/pricing,Instapainting,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://doblet.com,http://doblet.com,Doblet,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://lattice.com,https://lattice.com/pricing,Lattice,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://partnerstack.com,https://partnerstack.com/pricing,PartnerStack,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://marketbrief.com,http://marketbrief.com,MarketBrief,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://pagelever.com,http://pagelever.com,Pagelever,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.tinkercorp.com,http://www.tinkercorp.com,Tinker,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.yougotlistings.com,http://www.yougotlistings.com/pricing,You Got Listings,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://kiko.com,http://kiko.com,Kiko,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.scuba.io,https://www.scuba.io,Scuba,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://roomstorm.com,http://roomstorm.com,Roomstorm,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://gigster.com/,https://gigster.com,Gigster,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://thisisL.com,http://thisisL.com,L.,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://payable.com,http://payable.com,Payable,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://soundboks.com,http://soundboks.com,SOUNDBOKS,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.ownerscircle.com,https://www.ownerscircle.com,Owners Circle,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://appcubator.com,http://appcubator.com,Appcubator,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://reddit.com,http://reddit.com,Reddit,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://designly.com,http://designly.com,WebCake,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://audiobeta.com,http://audiobeta.com,Audiobeta,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://jopwell.com,http://jopwell.com,Jopwell,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://rossintelligence.com,http://rossintelligence.com/pricing,ROSS Intelligence,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://sendoid.com,http://sendoid.com,Sendoid,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://getfixed.me,http://getfixed.me,Fixed,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.tremendous.com,https://www.tremendous.com/pricing,Tremendous,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.startclosing.com,http://www.startclosing.com,Start Closing,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://weareher.com,http://weareher.com,HER,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://swish.com,http://swish.com/pricing,Swish,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://echolocker.com,http://echolocker.com,Echo Locker,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://42technologies.com,https://42technologies.com/pricing,42,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://,http://,PetaSales,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://flagr.com,http://flagr.com,Flagr,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://thequad.com,http://thequad.com,Quad,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://flaviar.com,https://flaviar.com,Flaviar,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://kivo.com,http://kivo.com,Kivo,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://women.com,http://women.com/pricing.html,Women.com,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,unknown,https://www.ycombinator.com/companies/mixed-media-labs,Mixed Media Labs,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://ohlife.com,http://ohlife.com,OhLife,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.deepgram.com,https://www.deepgram.com/pricing,Deepgram,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://scopear.com,http://scopear.com/pricing,Scope AR,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://flytenow.com,http://flytenow.com/pricing,Flytenow,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://oolusolar.com,http://oolusolar.com,Oolu,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://paytango.com,http://paytango.com/pricing,PayTango,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://abacus.com,http://abacus.com/pricing,Abacus,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://verbling.com,http://verbling.com/plans,Verbling,FREE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://thunkable.com,http://thunkable.com/pricing,Thunkable,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://frogmetrics.com,http://frogmetrics.com,Frogmetrics,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://tenantturner.com,http://tenantturner.com,Tenant Turner,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://,http://,Ixiplay,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://twitch.com,http://twitch.com/pricing,Twitch,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://weave.in,http://weave.in,Weave,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://maderight.com,http://maderight.com,Maderight,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.bynorth.com,https://www.bynorth.com,North,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.snapmagic.com,https://www.snapmagic.com,SnapMagic,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.hyperpad.com,http://www.hyperpad.com,Hyperpad,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.openinvest.com,http://www.openinvest.com,OpenInvest,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://backtype.com,http://backtype.com,BackType,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://picktrace.com/company,http://picktrace.com/company,PickTrace,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://asm.co/,https://asm.co/,Assembly,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://secondmeasure.com,http://secondmeasure.com,Second Measure,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://humble.com,https://humble.com,Humble Bundle,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.airhelp.com,http://www.airhelp.com,AirHelp,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.taxa.com,http://www.taxa.com,TAXA Biotechnologies,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,unknown,https://www.ycombinator.com/companies/magic-instruments,Magic Instruments,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://front.com,https://front.com/pricing,Front,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://leadgenius.com,http://leadgenius.com,LeadGenius,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://kodowa.com,http://kodowa.com,Light Table/Eve,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://mailtime.com,http://mailtime.com,MailTime,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://boostable.com,http://boostable.com,Boostable,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://getpebble.com,http://getpebble.com,Pebble,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.zoomerdelivery.com,http://www.zoomerdelivery.com,Zoomer,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://anchorhealth.com,http://anchorhealth.com,Anchor Health,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://tomoguides.com,http://tomoguides.com,TomoGuides,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://cognitohq.com,https://cognitohq.com,Cognito,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://justspotted.com,http://justspotted.com,JustSpotted,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://embarktrucks.com,http://embarktrucks.com,Embark Trucks,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://govpredict.com,http://govpredict.com/pricing,GovPredict,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,letsembark.com,letsembark.com,Embark,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://comprehend.com,http://comprehend.com,Comprehend,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://pixate.com,http://pixate.com,Pixate,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.vernox.io,http://www.vernox.io,Vernox,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://padlet.com,https://padlet.com/pricing,Padlet,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://ambition.com,https://ambition.com/pricing,Ambition,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://blockspring.com,http://blockspring.com,Blockspring,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://hyperinkpress.com,http://hyperinkpress.com,Hyperink,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://ginkgobioworks.com,http://ginkgobioworks.com,Ginkgo Bioworks,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://hickorytraining.com,http://hickorytraining.com,Hickory,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.getvinebox.com,http://www.getvinebox.com,VINEBOX (Usual Beverage Co.),PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://teamapart.com,http://teamapart.com/pricing,Team Apart,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://knowmia.com,http://knowmia.com/pricing,Knowmia,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://interstateapp.com,http://interstateapp.com,Interstate,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://fivetran.com,http://fivetran.com/pricing,Fivetran,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://bitaccess.com,http://bitaccess.com,Bitaccess,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://custora.com,http://custora.com,Custora,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://heroiclabs.com,http://heroiclabs.com/pricing,Heroic Labs,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://youlicit.com,http://youlicit.com,Youlicit,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://prayasanalytics.com,http://prayasanalytics.com/pricing,Prayas Analytics,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://greentoe.com,http://greentoe.com,Greentoe,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://earbits.com,http://earbits.com,Earbits,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.platohq.com,http://www.platohq.com/pricing,Plato,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.tovala.com,http://www.tovala.com/pricing,Tovala,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://opez.com,http://opez.com,Opez,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://thestyleup.com,http://thestyleup.com,StyleUp,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://sourcedna.com,http://sourcedna.com,SourceDNA,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://convore.com,http://convore.com/pricing,Convore,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://urbantakeover.at,http://urbantakeover.at,Claimspotting,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://compgun.com,http://compgun.com,Compgun,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.aptdeco.com/,https://www.aptdeco.com/,AptDeco,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://helionenergy.com,http://helionenergy.com,Helion Energy,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://twotap.com,http://twotap.com,Two Tap,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://chatfuel.com,http://chatfuel.com/pricing,Chatfuel,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://mixrank.com,https://mixrank.com/pricing,MixRank,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,flotype.com,https://flotype.com/pricing,Flotype,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://lawdingo.com,http://lawdingo.com,Lawdingo,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://hublo.com,http://hublo.com,Hublo,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://fobo.net,http://fobo.net,Fobo,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://zeromailer.com,http://zeromailer.com,ZeroMailer,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.persistiq.com,http://www.persistiq.com,PersistIQ,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://bayesimpact.org,http://bayesimpact.org,Bayes Impact,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.ticketfairy.com/,https://www.ticketfairy.com/,The Ticket Fairy,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://vizeralabs.com,http://vizeralabs.com,VizeraLabs,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://kicksend.com,http://kicksend.com,Kicksend,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.airmada.com,http://www.airmada.com,Airmada,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://sift.com/,https://sift.com/,Sift,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://snipd.com,http://snipd.com/pricing,Snipd,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://roomblocker.com,http://roomblocker.com,Roomblocker,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://fivestars.com,http://fivestars.com,Fivestars,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://canopylabs.com,http://canopylabs.com,Canopy Labs,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://bitnami.com,https://bitnami.com,Bitnami,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.getaccept.com,https://www.getaccept.com/pricing,GetAccept,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://zenamins.com,http://zenamins.com,Zenamins,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://videopixie.com,http://videopixie.com/pricing,Videopixie,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://impraise.com,http://impraise.com,Impraise,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.vaycayhero.com/,https://www.vaycayhero.com/,VaycayHero,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://apportable.com,http://apportable.com,Apportable,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.chargehound.com,https://www.chargehound.com,Chargehound,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://protocol.ai/,https://protocol.ai,Protocol Labs,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.onecodex.com,https://www.onecodex.com/pricing,One Codex,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://insightdatascience.com,http://insightdatascience.com,Insight Data Science,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.branch8.com,https://www.branch8.com,Branch8,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.stilt.com,http://www.stilt.com,Stilt,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://close.com,https://close.com/pricing,Close,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.buildzoom.com,https://www.buildzoom.com,BuildZoom,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://peopleandpages.com,http://peopleandpages.com,People & Pages,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://kamcord.com,http://kamcord.com/pricing,Kamcord,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.isonohealth.com,http://www.isonohealth.com,iSono Health,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://withkash.com,http://withkash.com/pricing,Kash,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://ravti.com,http://ravti.com,Ravti,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://trycaviar.com,http://trycaviar.com,Caviar,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.cambly.com,http://www.cambly.com,Cambly,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://confidentlims.com,https://confidentlims.com/pricing,Confident LIMS,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://careledger.com,http://careledger.com,CareLedger,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://launchpadtoys.com,http://launchpadtoys.com,Launchpad Toys,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://medisas.com,http://medisas.com,Medisas,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.lynks.com/,https://www.lynks.com/,Lynks,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://etleap.com,https://etleap.com,Etleap,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://interviewed.com,http://interviewed.com,Interviewed,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://statwing.com,http://statwing.com/pricing,Statwing,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,unknown,https://www.ycombinator.com/companies/sliced-investing,Sliced Investing,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://convox.com,http://convox.com/pricing,Convox,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://lawnlove.com,https://lawnlove.com/pricing,Lawn Love,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.imgix.com,https://www.imgix.com/pricing,Imgix,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://boostedboards.com,http://boostedboards.com,Boosted,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://gotreehouse.com,http://gotreehouse.com,Treehouse,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://balancedpayments.com,http://balancedpayments.com,Balanced,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.rainforestqa.com,https://www.rainforestqa.com/pricing,Rainforest,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.futureleague.co,http://www.futureleague.co,Futureleague,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://listrunnerapp.com,http://listrunnerapp.com/pricing,ListRunner,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://unwind.me,http://unwind.me,Unwind Me,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://gocheetah.com,http://gocheetah.com,Cheetah,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://noorahealth.org,http://noorahealth.org,Noora Health,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.bymason.com,http://www.bymason.com,Mason,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://Innoveinmedical.com,http://Innoveinmedical.com/pricing,InnoVein,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://popcuts.com,http://popcuts.com,Popcuts,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://awesometalk.com,http://awesometalk.com,Awesometalk,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://tutorspree.com,http://tutorspree.com/pricing,Tutorspree,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://caremessage.org,http://caremessage.org,CareMessage,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://imgfave.com,http://imgfave.com/pricing,Imgfave,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://codecombat.com,https://codecombat.com/pricing,CodeCombat,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://askolo.com,http://askolo.com,Vapor,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://influxdata.com,https://influxdata.com/pricing,InfluxData,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://theshotput.com,http://theshotput.com,Shotput,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://voxli.com,http://voxli.com,Voxli,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://loopt.com,http://loopt.com,Loopt,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://fitfu.com,http://fitfu.com,FitFu,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://thinkgaming.com,http://thinkgaming.com,Think Gaming,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://halolife.com,http://halolife.com,Halolife,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://dubjoy.com,http://dubjoy.com,Dubjoy,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://outschool.com,http://outschool.com/pricing,Outschool,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.strikingly.com,https://www.strikingly.com/pricing,Strikingly,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://ansibletechnologies.com,http://ansibletechnologies.com/pricing,GlassMap,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.edenworkplace.com,https://www.edenworkplace.com/pricing,Eden,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://voiq.com,http://voiq.com,VOIQ,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://vidyard.com,http://vidyard.com/pricing,Vidyard,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://codenow.org,http://codenow.org,CodeNow,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://cloudant.com,http://cloudant.com,Cloudant,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://lanyrd.com,http://lanyrd.com/pricing,Lanyrd,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://memamp.com,http://memamp.com,Memamp,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://rescuetime.com,http://rescuetime.com/pricing,RescueTime,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://grepdata.com,http://grepdata.com,GrepData,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://threadable.com,http://threadable.com,Threadable,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://petcube.com,http://petcube.com,Petcube,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://3dot.com,http://3dot.com,3dot,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.foxpass.com,https://www.foxpass.com/pricing,Foxpass,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://metricwire.com,http://metricwire.com,MetricWire,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://fidoosh.com,http://fidoosh.com,TrustEgg,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://fullstackacademy.com,http://fullstackacademy.com,Fullstack Academy,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://moki.tv,http://moki.tv,Hotspots,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://lollipuff.com,http://lollipuff.com,Lollipuff,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.monthli.com,http://www.monthli.com,Monthli,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.emburse.com,https://www.emburse.com,Emburse,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://oklo.com,http://oklo.com,Oklo,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://naytev.com,http://naytev.com/pricing,Naytev,FREE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://mailgun.net,http://mailgun.net,Mailgun,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://anyvite.com,http://anyvite.com,Anyvite,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://getcruise.com,http://getcruise.com/pricing,Cruise,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://minomonsters.com,http://minomonsters.com,Mino Games,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://m.io,http://m.io/pricing,Mio,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://leaky.com,http://leaky.com,Leaky,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://athinkingape.com,http://athinkingape.com,A Thinking Ape,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://siasto.com,http://siasto.com/pricing,Siasto,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.getreplenish.com,http://www.getreplenish.com,Replenish,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://meldium.com,http://meldium.com/pricing,Meldium,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://ridejoy.com,http://ridejoy.com,Ridejoy,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.datingring.com/,https://www.datingring.com/,Dating Ring,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://streem.com,https://streem.com,Streem,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://ninite.com,http://ninite.com,Ninite,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://goradar.com,https://goradar.com,RADAR,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://getwhirl.com,http://getwhirl.com,Whirl,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://getfinal.com,http://getfinal.com,Final,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.algoriz.com,http://www.algoriz.com,Algoriz,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://sunfarmer.org,http://sunfarmer.org,SunFarmer,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://tapengage.com,http://tapengage.com/pricing,TapEngage,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://neptune.io,http://neptune.io,Neptune.io,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://wheelyscafe.com,http://wheelyscafe.com,Wheelys Café,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.mthsense.com/,http://www.mthsense.com/pricing,Mth Sense,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.goatgroup.com/,https://www.goatgroup.com/,GOAT Group,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://stitch.health/,https://stitch.health/,Stitch Health,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.alchemynano.com,http://www.alchemynano.com,Alchemy,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://snapjoy.com,http://snapjoy.com,Snapjoy,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://reachpower.com,https://reachpower.com,Reach,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://humandx.org,http://humandx.org,Human Dx,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://co2stats.com,http://co2stats.com,CO2Stats,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://mongohq.com,http://mongohq.com,Compose,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.tesorio.com,https://www.tesorio.com/pricing,Tesorio,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://infogami.com,http://infogami.com,Infogami,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://lean.com,http://lean.com,LeanMarket,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://nightingaleapp.com,http://nightingaleapp.com,Nightingale,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://fathomdb.com,http://fathomdb.com,FathomDB,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://beatdeck.com,http://beatdeck.com,BeatDeck,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.loopgenomics.com/,http://www.loopgenomics.com,Loop Genomics,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://mightyquiz.com,http://mightyquiz.com,MightyQuiz,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://experiment.com,http://experiment.com,Experiment,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.focal.systems,http://www.focal.systems,Focal Systems,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.thriveagritech.com,http://www.thriveagritech.com,Thrive Agritech,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://picwing.com,http://picwing.com,Picwing,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://akidolabs.com,http://akidolabs.com,Akido Labs,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.geckorobotics.com,https://www.geckorobotics.com,Gecko Robotics,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.beepnetworks.com,http://www.beepnetworks.com,Beep,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://omnisio.com,http://omnisio.com,Omnisio,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://notablelabs.com,http://notablelabs.com,Notable Labs,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://heap.io/,https://heap.io/pricing,Heap,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://healthsherpa.com,https://healthsherpa.com,HealthSherpa,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.omnivirt.com,https://www.omnivirt.com,OmniVirt,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.mezmo.com/,https://www.mezmo.com/pricing,Mezmo,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://picnic.ai,https://picnic.ai,PicnicAI,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://vergegenomics.com,http://vergegenomics.com,Verge Genomics,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://heroku.com,http://heroku.com/pricing,Heroku,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://swapbox.com,http://swapbox.com,Swapbox,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.uplabs.com,https://www.uplabs.com,UpLabs,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.storyworth.com,https://www.storyworth.com/pricing,Storyworth,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://parakey.com,http://parakey.com,Parakey,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://ticketstumbler.com,http://ticketstumbler.com,Ticket Stumbler,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://axoni.com,https://axoni.com,Axoni,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://perfectaudience.com,http://perfectaudience.com,Perfect Audience,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://blitzesports.com,http://blitzesports.com,Blitz Esports,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://smyte.com,http://smyte.com,Smyte,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://ride.roversf.com,http://ride.roversf.com,RoverRide,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://mux.com,http://mux.com/pricing,Mux,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.tetrascience.com,https://www.tetrascience.com,TetraScience,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.magicbus.io,http://www.magicbus.io,MagicBus,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://280north.com,http://280north.com/pricing,280 North,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.worldcovr.com,https://www.worldcovr.com,WorldCover,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://precognate.com,http://precognate.com,Precognate,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://parse.com,http://parse.com,Parse,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://talkbin.com,http://talkbin.com,TalkBin,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://terascore.com,http://terascore.com,Trainzen,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://mattermost.com,http://mattermost.com/pricing,Mattermost,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://getmagic.com/,https://getmagic.com/pricing,Magic,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://castle.io,https://castle.io/pricing,Castle,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://ablehealth.com,http://ablehealth.com,Able Health,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.mz.com,https://www.mz.com,Machine Zone,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://venuetastic.com,http://venuetastic.com,Venuetastic,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://kimonolabs.com,http://kimonolabs.com,Kimono Labs,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://simplyinsured.com,http://simplyinsured.com,SimplyInsured,FREE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://getkuna.com,http://getkuna.com/plans,Kuna Systems,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://wundrbar.com,http://wundrbar.com,Wundrbar,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://cymmetria.com,http://cymmetria.com,Cymmetria,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://bizzy.io,http://bizzy.io/pricing,Bizzy,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://rentobo.com,http://rentobo.com,Rentobo,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://socialbrowse.com,http://socialbrowse.com/pricing,Socialbrowse,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://everyme.com,http://everyme.com,Everyme,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://apollo.com,http://apollo.com,Apollo Health,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://zentail.com,https://zentail.com/pricing,Zentail,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.crowdmed.com,http://www.crowdmed.com/pricing,CrowdMed,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://devcycle.com,http://devcycle.com/pricing,DevCycle,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://pomello.com,http://pomello.com,Pomello,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://bluesmart.com,http://bluesmart.com,Bluesmart,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://simplylisted.com,http://simplylisted.com/pricing,SimplyListed,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.truebill.com,https://www.truebill.com,Truebill,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.flexport.com/careers/jobs/,https://www.flexport.com/careers/jobs/,Flexport,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://draftin.com,http://draftin.com,Draft,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.golorry.com,http://www.golorry.com,GoLorry,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://20n.com,http://20n.com,20n,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://automatic.com,http://automatic.com/pricing,Automatic,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://rigetti.com,http://rigetti.com,Rigetti Computing,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://afrostream.tv,http://afrostream.tv,Afrostream,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://madesolid.com,http://madesolid.com/pricing,MadeSolid,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://plateiq.com/,https://plateiq.com/,Plate IQ,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://zeusliving.com/,https://zeusliving.com/,Zeus,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://mtailor.com,http://mtailor.com,MTailor,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://qventus.com,http://qventus.com,Qventus,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://soylent.com,http://soylent.com,Soylent,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://callnine.com,http://callnine.com,Call9,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.alphaflow.com,http://www.alphaflow.com,AlphaFlow,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.crunchbase.com/organization/orderahead,https://www.crunchbase.com/organization/orderahead,OrderAhead,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://techinasia.com,http://techinasia.com,Tech in Asia,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://flightcar.com,http://flightcar.com,FlightCar,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.thinkbright.mx,https://www.thinkbright.mx,Bright,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://bellabeat.com,http://bellabeat.com,Bellabeat,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.deako.com,https://www.deako.com,Deako,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.dosedr.com,https://www.dosedr.com/pricing,DoseDr,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://sfox.com,http://sfox.com,SFOX,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://bluecrewjobs.com,http://bluecrewjobs.com,Bluecrew,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://inporia.com,http://inporia.com,Inporia,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://onlycoin.com,http://onlycoin.com,Coin,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.drchrono.com,https://www.drchrono.com,DrChrono,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://presto.com,http://presto.com,Presto,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.usergems.com,https://www.usergems.com/pricing,UserGems,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://bodyport.com,http://bodyport.com,Bodyport,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://hipmunk.com,http://hipmunk.com,Hipmunk,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://appcanary.com,http://appcanary.com/pricing,Appcanary,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://opentrons.com,http://opentrons.com,Opentrons,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://goroost.com,http://goroost.com,Roost,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://netomi.com,https://netomi.com,Netomi,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.gocopia.com,http://www.gocopia.com,Copia,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://teevox.com,https://teevox.com,Teevox,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://deluux.com,http://deluux.com,Deluux,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://hungrylabs.com,http://hungrylabs.com,Hungry Labs,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://upverter.com,http://upverter.com,Upverter,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://drivepulseapp.com,http://drivepulseapp.com,Drive Pulse,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://permutive.com,https://permutive.com,Permutive,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.kalibrr.com,https://www.kalibrr.com,Kalibrr,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.gigwell.com,https://www.gigwell.com/pricing,Gigwell,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.aptopayments.com/,https://www.aptopayments.com/pricing,Apto Payments,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://rapportive.com,http://rapportive.com/pricing,Rapportive,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.singlestore.com,https://www.singlestore.com/pricing,SingleStore,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://zenefits.com,http://zenefits.com/pricing,Zenefits,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://chaldal.com,http://chaldal.com,Chaldal,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://shipbob.com,http://shipbob.com/pricing,ShipBob,FREE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://moveloot.com,http://moveloot.com,Move Loot,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://cribspot.com,http://cribspot.com,Cribspot,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://emailio.com,http://emailio.com,Emailio,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://smartasset.com,http://smartasset.com,SmartAsset,FREE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://daily.co,https://daily.co/pricing,Daily,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://histowiz.com,http://histowiz.com,HistoWiz,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://inyourcorneronline.com,http://inyourcorneronline.com,In Your Corner,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://playreader.com,http://playreader.com,PlayReader,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.recurse.com,https://www.recurse.com,Recurse Center,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://chartio.com,https://chartio.com,Chartio,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://zerocater.com,http://zerocater.com,Zerocater,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://kirklandnorth.com,http://kirklandnorth.com,Kirkland North,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://useshout.com,http://useshout.com,Shout,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://fundersclub.com/,https://fundersclub.com,FundersClub,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://nextcaller.com,http://nextcaller.com,Next Caller,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://democracy.earth/,http://democracy.earth/,Democracy Earth,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://inevitabletech.com/,https://inevitabletech.com/,Inevitable Tech,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://producthunt.com,http://producthunt.com,Product Hunt,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://medxt.com,http://medxt.com,MedXT,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://tellfi.com,http://tellfi.com/pricing,TellFi,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://simperium.com,http://simperium.com/pricing,Simperium,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://hoverchat.com,http://hoverchat.com/pricing,HoverChat,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://fetchtruck.com,https://fetchtruck.com,Fetch,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://insoshi.com,http://insoshi.com,Insoshi,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://sphere.works,http://sphere.works,Sphere Secure Workspace,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.detroitwaterproject.org/,https://www.detroitwaterproject.org/pricing,The Human Utility,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,unknown,https://www.ycombinator.com/companies/assembled,Assembled,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://testmunk.com,http://testmunk.com,Testmunk,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://logiblock.com,http://logiblock.com,Logiblock,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.willing.com/,https://www.willing.com/,Willing,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://joberator.com,http://joberator.com/pricing,Joberator,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://us.memebox.com,http://us.memebox.com,MBX,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://yumdots.com,http://yumdots.com,YumDots,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://lendedu.com,https://lendedu.com,LendEDU,FREE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://slinkset.com,http://slinkset.com,Slinkset,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.auro.ai/,http://www.auro.ai/,Auro Robotics,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://1degree.org,http://1degree.org/pricing,One Degree,FREE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://luministlabs.com,http://luministlabs.com/pricing,Luminist Labs,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.superside.com,http://www.superside.com/pricing,Superside,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,unknown,https://www.ycombinator.com/companies/bitsample,BitSample,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://dripcapital.com,http://dripcapital.com,Drip Capital,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.spotangels.com,http://www.spotangels.com,SpotAngels,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.zeitview.com/,https://www.zeitview.com,Zeitview,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://talkable.com,http://talkable.com/pricing,Talkable,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://bankjoy.com,http://bankjoy.com,Bankjoy,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://trigger.io,http://trigger.io,Trigger,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://circlemedical.com,https://circlemedical.com,Circle Medical,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.meterfeeder.com,http://www.meterfeeder.com,Meter Feeder,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://arccameras.com,http://arccameras.com,Arc,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://sevacoffee.com,http://sevacoffee.com,Seva Coffee,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://habitlabs.com,http://habitlabs.com,Habit Labs,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://songkick.com,http://songkick.com,Songkick,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://yumbin.com,http://yumbin.com,Yumbin,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://braintripping.com,https://braintripping.com,BrainTripping,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://wefunder.com,http://wefunder.com,Wefunder,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://,http://,Grid,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.nextravel.com,https://www.nextravel.com/pricing,NexTravel,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://snaptalent.com,http://snaptalent.com,Snaptalent,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://beetailer.com,http://beetailer.com,Beetailer,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://movity.com,http://movity.com,Movity,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.landed.com,http://www.landed.com,Landed,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://theoremlp.com,http://theoremlp.com,Theorem,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://swiftype.com,http://swiftype.com/pricing,Swiftype,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://padmapper.com,http://padmapper.com/pricing,PadMapper,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://mimirhq.com,https://mimirhq.com,Mimir,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://markupwand.com,http://markupwand.com/pricing,Markupwand,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://dropbox.com,http://dropbox.com/pricing,Dropbox,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://givemetap.com,http://givemetap.com,GiveMeTap,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.semantics3.com,http://www.semantics3.com,Semantics3,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://liftigniter.com/,http://liftigniter.com/pricing,Liftigniter,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://zpredicta.com,http://zpredicta.com,zPREDICTA,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.demandsphere.com/,https://www.demandsphere.com/pricing,DemandSphere,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://levelframes.com,http://levelframes.com/pricing,Level Frames,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://sparkgift.com,http://sparkgift.com,SparkGift,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://etacts.com,http://etacts.com,Etacts,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://datamarketplace.com,http://datamarketplace.com,Data Marketplace,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,unknown,https://www.ycombinator.com/companies/groupahead,GroupAhead,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://piinpoint.com,https://piinpoint.com/pricing,PiinPoint,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://bluefroggaming.com,http://bluefroggaming.com,Blue Frog Gaming,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://prophecysciences.com,http://prophecysciences.com,Prophecy Sciences,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://getmeadow.com,https://getmeadow.com/pricing,Meadow,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://lvl6.com,http://lvl6.com,LVL6,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://chirply.com,http://chirply.com,Chirply,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://stacklead.com,http://stacklead.com,StackLead,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://klarismo.com,http://klarismo.com,Klarismo,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.anylist.com,https://www.anylist.com,AnyList,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://disqus.com,http://disqus.com,Disqus,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://eventjoy.com,http://eventjoy.com,Eventjoy,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.constructvr.io,https://www.constructvr.io,ConstructVR,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://grubmarket.com,http://grubmarket.com,GrubMarket,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.pipelinedb.com,http://www.pipelinedb.com/pricing,PipelineDB,FREE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://farmlogs.com,http://farmlogs.com/pricing,FarmLogs,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://wevorce.com,http://wevorce.com,Wevorce,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://brushesapp.com,http://brushesapp.com,Brushes,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://redcarpetup.com,http://redcarpetup.com,RedCarpetUp,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://easel.io,http://easel.io,Easel,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.numerionlabs.ai,https://www.numerionlabs.ai,Numerion Labs,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://povio.com,http://povio.com,Povio,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://clever.com,https://clever.com,Clever,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://tipjoy.com,http://tipjoy.com,Tipjoy,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://airware.com,http://airware.com,Airware,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://markhor.com,http://markhor.com,Markhor,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://99dresses.com,http://99dresses.com,99dresses,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://shapescale.com,https://shapescale.com,Shape (ShapeScale),,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://gantto.com,http://gantto.com/pricing,Gantto,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://framebase.io,http://framebase.io,Framebase,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.scentbird.com,https://www.scentbird.com,Scentbird,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://infoharmoni.com,http://infoharmoni.com,Infoharmoni,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://cyberfend.com,http://cyberfend.com,CyberFend,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.pushbullet.com,https://www.pushbullet.com,Pushbullet,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://hiptype.com,http://hiptype.com,Hiptype,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://outbound.io,http://outbound.io/pricing,Outbound,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://zeplin.io,https://zeplin.io/pricing,Zeplin,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.mrelief.com,https://www.mrelief.com/pricing,mRelief,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://mineralsoft.com,https://mineralsoft.com/pricing,MineralSoft,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://homejoy.com,http://homejoy.com/pricing,Homejoy,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://higherme.com,http://higherme.com,HigherMe,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.goldbelly.com/,https://www.goldbelly.com/,Goldbelly,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.filestack.com/,https://www.filestack.com/pricing,FileStack,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://notifo.com,http://notifo.com,Notifo,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://locent.com,http://locent.com,Locent,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://getcycle.com,http://getcycle.com,Airshared,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://urx.com,http://urx.com,URX,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://authy.com,http://authy.com,Authy,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://teespring.com,http://teespring.com,Teespring,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://dabble.so,https://dabble.so,Dabble,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://cheddar.io,http://cheddar.io,Cheddar,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://microhealth.com,http://microhealth.com,Microhealth,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.jeugene.com,https://www.jeugene.com,jEugene,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://eligible.com,https://eligible.com,Eligible,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://userfox.com,http://userfox.com,Userfox,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.teamleada.com,http://www.teamleada.com,Leada,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://listia.com,http://listia.com,Listia,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://nextop.io,http://nextop.io,Nextop,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://rocketrip.com,http://rocketrip.com,Rocketrip,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://pigeonly.com,http://pigeonly.com/pricing,Pigeonly,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://collections.me,http://collections.me,Collections,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://circuithub.com,https://circuithub.com/pricing,CircuitHub,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://remicro.com,http://remicro.com,Reduced Energy Microsystems,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://bistrobot.com,http://bistrobot.com,Bistrobot,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://getohm.com,http://getohm.com,Ohm,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://stripe.com,http://stripe.com/pricing,Stripe,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://cloud.tv,http://cloud.tv,Mixwit,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.functionofbeauty.com,http://www.functionofbeauty.com,Function of Beauty,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://gazehawk.com,http://gazehawk.com,GazeHawk,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://go.givecampus.com,http://go.givecampus.com,GiveCampus,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://worklife.com,http://worklife.com,WorkLife,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://shoobs.com,http://shoobs.com,Shoobs,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://labdoor.com,https://labdoor.com,Labdoor,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://icracked.com,http://icracked.com,iCracked,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://leftronic.com,http://leftronic.com,Leftronic,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://zumodrive.com,http://zumodrive.com/pricing,ZumoDrive,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.pervices.com,https://www.pervices.com/pricing,Per Vices,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://newslabs.com,http://newslabs.com,Newslabs,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://highlightcam.com,http://highlightcam.com,HighlightCam,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://sketchdeck.com,https://sketchdeck.com/pricing,SketchDeck,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://platzi.com,https://platzi.com/pricing,Platzi,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.asseta.com,http://www.asseta.com,Asseta,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://booktrope.com,http://booktrope.com,Booktrope,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://shredvideo.com,https://shredvideo.com,Shred Video,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://loom.com,http://loom.com/pricing,Loom,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.upbeatpr.com/,https://www.upbeatpr.com/,Upbeat,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://kytephone.com,http://kytephone.com,BarSense,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.lever.co/,https://www.lever.co/pricing,Lever,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://teleborder.com,http://teleborder.com,Teleborder,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://socialpicks.com,http://socialpicks.com,SocialPicks,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://goinstavest.com,http://goinstavest.com,Instavest,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://standardtreasury.com,http://standardtreasury.com,Standard Treasury,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://datanitro.com,http://datanitro.com,DataNitro,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://priime.com,https://priime.com,Priime,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://pocketsuite.io,https://pocketsuite.io/pricing,PocketSuite,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.upwave.com,http://www.upwave.com,Upwave,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.toymail.co,http://www.toymail.co/pricing,Toymail,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://merrymint.co,http://merrymint.co,MerryMint,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://plangrid.com,http://plangrid.com/pricing,PlanGrid,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://omniref.com,http://omniref.com,Omniref,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://entercastle.com,http://entercastle.com,Castle,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://bumptechnologies.com,http://bumptechnologies.com,Bump,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.prettyinstant.com,https://www.prettyinstant.com,Pretty Instant,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://documents.me,http://documents.me,Documents.Me,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://razorpay.com,https://razorpay.com/pricing,Razorpay,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://flutterapp.com,http://flutterapp.com,Flutter,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://ijigg.com,http://ijigg.com,iJigg/Top440,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://wireover.com,http://wireover.com,WireOver,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://snapdocs.com,http://snapdocs.com,Snapdocs,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://appjet.com,http://appjet.com,Appjet,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://watsi.org,https://watsi.org,Watsi,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://dreamforge.me,http://dreamforge.me,Dreamforge,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://opzi.com,http://opzi.com,Opzi,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://stackmachine.com,http://stackmachine.com/pricing,StackMachine,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://rescueforensics.com,http://rescueforensics.com/pricing,Rescue Forensics,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://stylebee.com,http://stylebee.com/pricing,StyleBee,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://shopagram.co,http://shopagram.co,Shopagram,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.stealthworker.com,https://www.stealthworker.com,Stealth Worker,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://luciq.ai,https://luciq.ai/pricing,Luciq (formerly Instabug),ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://popularpays.com,http://popularpays.com,Popular Pays,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://solidstage.com,http://solidstage.com/pricing,SolidStage,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://7cups.com,http://7cups.com,7cups,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://vayable.com,http://vayable.com,Vayable,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://motionlead.com,http://motionlead.com,Motionlead,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://octavewealth.com,https://octavewealth.com,OctaveWealth,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://anywhere.fm,http://anywhere.fm,Anywhere.FM,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://directededge.com,http://directededge.com,Directed Edge,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://dailybooth.com,http://dailybooth.com,DailyBooth,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://kickpay.com,https://kickpay.com,Kickpay,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://sendhub.com,http://sendhub.com/pricing,SendHub,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://moltin.com,https://moltin.com,Moltin,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://yourmechanic.com,http://yourmechanic.com,YourMechanic,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://post.fm,http://post.fm,Post.fm,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://cloudstitch.com,http://cloudstitch.com,Cloudstitch,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://rethinkdb.com,http://rethinkdb.com,RethinkDB,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://bufferbox.com,http://bufferbox.com,BufferBox,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.paperspace.com,https://www.paperspace.com/pricing,Paperspace,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://bloomthat.com,http://bloomthat.com,BloomThat,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.xendit.co/,https://www.xendit.co/pricing,Xendit,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://StyleLend.com,http://StyleLend.com,Style Lend,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://futureadvisor.com,http://futureadvisor.com,FutureAdvisor,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://indinero.com,http://indinero.com/pricing,inDinero,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://gorickshaw.com,http://gorickshaw.com,Rickshaw,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.openlistings.com,https://www.openlistings.com,Open Listings,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://wepay.com,http://wepay.com,WePay,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://coreos.com,http://coreos.com/pricing,CoreOS,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.guesty.com,http://www.guesty.com/pricing,Guesty,FREE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.buildscience.com/,http://www.buildscience.com,BuildScience,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://ancestry.com,http://ancestry.com,1000Memories,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://hipmob.com,http://hipmob.com,Hipmob,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://salessift.com,https://salessift.com,SalesSift,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://hackermeter.com,http://hackermeter.com,Hackermeter,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://aerofs.com,http://aerofs.com,AeroFS,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://myvr.com,http://myvr.com/pricing,MyVR,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://workflowy.com,http://workflowy.com/pricing,WorkFlowy,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://edyn.com,http://edyn.com,Edyn,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://seed.co,http://seed.co,Seed,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://profig.com,http://profig.com/pricing,Profig,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://crowdery.com,http://crowdery.com,Crowdery,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://fanhero.com/,https://fanhero.com/,FanHero,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.sendwave.com,https://www.sendwave.com,Sendwave,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://readme.com,http://readme.com/pricing,ReadMe,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://crohnology.com,http://crohnology.com,Crohnology (by Healthy Labs),,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://hauteday.com,http://hauteday.com,HauteDay,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://olark.com,http://olark.com/pricing,Olark,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://pagerduty.com,http://pagerduty.com/pricing,PagerDuty,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,unknown,https://www.ycombinator.com/companies/partnered,Partnered,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://fuzzwich.com,http://fuzzwich.com,Fuzzwich,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://nebia.com,http://nebia.com,Nebia,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://hireart.com,http://hireart.com,HireArt,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.truevault.com,https://www.truevault.com/pricing,TrueVault,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://standardcyborg.com,http://standardcyborg.com,Standard Cyborg,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.tab.travel,https://www.tab.travel/pricing,Tab,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://pachyderm.com,http://pachyderm.com,Pachyderm,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://reschedulemed.com,http://reschedulemed.com,ReSchedule Med,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://medmonk.com,http://medmonk.com/pricing,Medmonk,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://jobspice.com,http://jobspice.com,Jobspice,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://brace.io,http://brace.io,Brace,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.newsblur.com,https://www.newsblur.com/pricing,NewsBlur,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://42floors.com,http://42floors.com,42Floors,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://apptimize.com,http://apptimize.com,Apptimize,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://natero.com,http://natero.com,Natero,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://unicorn.ly,https://unicorn.ly/pricing,Unicornly,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://shiftmessenger.com,http://shiftmessenger.com,Shift Messenger,FREE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://mixpanel.com,http://mixpanel.com,Mixpanel,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://medigram.com,http://medigram.com,Medigram,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://zenflow.com,http://zenflow.com,Zenflow,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://virtualmin.com,http://virtualmin.com/pricing,Virtualmin,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://netbeez.net,https://netbeez.net,NetBeez,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.spoil.co/,https://www.spoil.co/,Spoil,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://getweave.com,http://getweave.com/pricing,Weave,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://posmetrics.com,http://posmetrics.com,Posmetrics,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://transcriptic.com,http://transcriptic.com/pricing,Transcriptic,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://terravion.com,http://terravion.com,Terravion,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://xfers.com,http://xfers.com,Xfers,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://ark.com,http://ark.com,Ark,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.ycombinator.com,https://www.ycombinator.com,Y Combinator,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,unknown,https://www.ycombinator.com/companies/tuxebo,Tuxebo,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://couple.me,http://couple.me,Couple,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.submittable.com/,https://www.submittable.com/pricing,Submittable,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://weebly.com,http://weebly.com/pricing,Weebly,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://kippt.com,http://kippt.com,Kippt,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://wit.ai,http://wit.ai/pricing,Wit.ai,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://platejoy.com,http://platejoy.com,PlateJoy,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://themuse.com,http://themuse.com,The Muse,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://noudata.com,http://noudata.com,Amiato,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://valorwater.com,http://valorwater.com/pricing,Valor Water Analytics,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://fanvibe.com,http://fanvibe.com,Fanvibe,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://sailsjs.com/about,https://sailsjs.com/about,Sails Co.,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://newcope.com,http://newcope.com,Newcope,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://readyforzero.com,http://readyforzero.com,Ready For Zero,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.caper.ai/,https://www.caper.ai,Caper,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://revl.com/,https://revl.com,Revl,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://estimote.com,http://estimote.com/pricing,"Estimote, Inc.",PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://bountii.com,http://bountii.com,Bountii,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://mattermark.com,http://mattermark.com/pricing,Mattermark,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://docker.com,http://docker.com,Docker,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://frid.ge,http://frid.ge,Fridge,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.pulpix.com,https://www.pulpix.com,Pulpix,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://fanchatter.com,http://fanchatter.com,Fanchatter,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://plurchase.com,http://plurchase.com,Plurchase,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://rescale.com,https://rescale.com/pricing,Rescale,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://zapier.com,http://zapier.com/pricing,Zapier,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://carsabi.com,http://carsabi.com,Carsabi,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://smarking.com,http://smarking.com/pricing,Smarking,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://tapzilla.com,http://tapzilla.com,Tapzilla,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.zidisha.org,https://www.zidisha.org/pricing.html,Zidisha,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://sirum.org,http://sirum.org,SIRUM,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://shiftlabs.com,http://shiftlabs.com,Shift Labs,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://zesty.com,http://zesty.com,Zesty,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://graffitigeo.com,http://graffitigeo.com,GraffitiGeo,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://whereoscope.com,http://whereoscope.com,Whereoscope,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://shopular.com,http://shopular.com/pricing,Shopular,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.buxfer.com,https://www.buxfer.com/pricing,Buxfer,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://octopart.com,http://octopart.com,Octopart,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://hellochair.com,http://hellochair.com,Hello Chair,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://tracksby.com,http://tracksby.com,Hipset,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://tempo.fit/,https://tempo.fit/pricing,Tempo,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://voicegem.com,http://voicegem.com/pricing,VoiceGem,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://zinc.com,http://zinc.com/pricing,Zinc,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://winkhealth.com,http://winkhealth.com/pricing,Wink Health,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,unknown,https://www.ycombinator.com/companies/flightcaster,Flightcaster,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,picplum.com,https://picplum.com/pricing,Picplum,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://taptolearn.com,http://taptolearn.com,Tap to Learn,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://fond.co,http://fond.co,Fond,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://graftconcepts.com,http://graftconcepts.com,Graft Concepts,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://teamnoteapp.com,http://teamnoteapp.com,TeamNote,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://googleblog.blogspot.com/2007/06/more-sharing.html,https://googleblog.blogspot.com/2007/06/more-sharing.html,Zenter,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.x-zell.com,http://www.x-zell.com,X-Zell,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://eivod.com,http://eivod.com,Eivod,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.socialcam.com,http://www.socialcam.com,Socialcam,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://priceonomics.com,http://priceonomics.com,Priceonomics,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://pribbit.com,http://pribbit.com/pricing,Pribbit,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://sigopt.com,https://sigopt.com,SigOpt,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://angel.co/slidepay,https://angel.co/slidepay,SlidePay,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://benchling.com,http://benchling.com/pricing,Benchling,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://vanhawks.com,http://vanhawks.com,Vanhawks,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://splashup.com,http://splashup.com,Splashup,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://azure.com,http://azure.com/pricing,NudgePad,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.algolia.com,http://www.algolia.com/pricing,Algolia,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://letshum.com,http://letshum.com,Hum,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.makrwatch.com,https://www.makrwatch.com,Makrwatch,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://booksolid.com,http://booksolid.com/pricing,BookSolid,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://clutch.io,http://clutch.io/pricing,Clutch,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://koduco.com,http://koduco.com/pricing,Koduco,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://optilly.com,http://optilly.com,Optilly/Installmonetizer,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://flightfox.com,http://flightfox.com/pricing,Flightfox,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://contestmachine.com,http://contestmachine.com,ContestMachine,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://hackpad.com,http://hackpad.com,HackPad,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://gobble.com,http://gobble.com/plans,Gobble,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://bagaveev.com,http://bagaveev.com/pricing,Bagaveev Corporation,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://adgrok.com,http://adgrok.com,AdGrok,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://apollographql.com/,http://apollographql.com/pricing,Apollo,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://biographicon.com,http://biographicon.com,Biographicon,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.lingt.com/,https://www.lingt.com/pricing,Lingt,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://doordash.com,http://doordash.com,DoorDash,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://whitenoisenetworks.com,http://whitenoisenetworks.com,Whitenoise,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://glio.com,http://glio.com,Glio,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://simplelegal.com,http://simplelegal.com,SimpleLegal,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.remix.com/,https://www.remix.com/pricing,Remix,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.tracchicago.com,https://www.tracchicago.com,TRAC,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://clickpass.com,http://clickpass.com,Clickpass,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.coinbase.com,https://www.coinbase.com,Coinbase,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://reelsurfer.com,http://reelsurfer.com,ReelSurfer,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.paveai.com/,https://www.paveai.com/,Pave,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://hackerrank.com,http://hackerrank.com/pricing,HackerRank,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.lullysleep.com/,https://www.lullysleep.com/,Lully,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://robohr.com,http://robohr.com,RoboHR,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://mertado.com,http://mertado.com,Mertado,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://casetext.com,http://casetext.com,Casetext,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://keychainlogistics.com,http://keychainlogistics.com,Keychain Logistics,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://tastemaker.com,http://tastemaker.com,Tastemaker,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://floobits.com,http://floobits.com,Floobits,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://view3.com,http://view3.com,View3,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://raredoor.com,http://raredoor.com/pricing,Rare Door,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.gbatteries.com,https://www.gbatteries.com,GBatteries,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://500friends.com,http://500friends.com,500Friends,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://cofactorgenomics.com,http://cofactorgenomics.com,Cofactor Genomics,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://chariot.com,http://chariot.com,Chariot,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://goscale.com,http://goscale.com,GoScale,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://easypost.com,http://easypost.com,EasyPost,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://spoonrocket.com,http://spoonrocket.com,SpoonRocket,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://writewith.com,http://writewith.com,WriteWith,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://pakible.com,https://pakible.com,Pakible,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://80000hours.org,http://80000hours.org/plans,"80,000 Hours",PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://reble.fm,http://reble.fm,Reble,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://genius.com,https://genius.com/pricing,Genius,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://buttercoin.com,http://buttercoin.com,Buttercoin,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://cratejoy.com,http://cratejoy.com,Cratejoy,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://unbabel.com,http://unbabel.com,Unbabel,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://justflip.com,http://justflip.com,Flip,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://zowpow.com,http://zowpow.com,ZowPow,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://bitmovin.com,http://bitmovin.com,Bitmovin,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.tara.ai,http://www.tara.ai,Tara AI,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://mixerbox.com,http://mixerbox.com,MixerBox,FREE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.vestfin.com,http://www.vestfin.com,Vest,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://onesignal.com,https://onesignal.com/pricing,OneSignal,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://backerkit.com,https://backerkit.com,BackerKit,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://meetyu.com,http://meetyu.com,Meetyu,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://meetings.io,http://meetings.io/pricing,Bitplay,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://credictive.com,http://credictive.com,Credictive,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://socialmoth.com,http://socialmoth.com,Socialmoth,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://redspread.com,http://redspread.com,Redspread,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://localon.com,http://localon.com,LocalOn,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.resolvebim.com,https://www.resolvebim.com/pricing,Resolve,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://opencurriculum.org,https://opencurriculum.org,OpenCurriculum,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://breaks.nu,http://breaks.nu,Zigfu,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://replika.ai/,https://replika.ai,Replika,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.paystack.com,https://www.paystack.com,Paystack,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://fabricly.com,http://fabricly.com,Fabricly,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://scribd.com,http://scribd.com/pricing,Scribd,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://glider.io,http://glider.io,Glider,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://crocodoc.com,https://crocodoc.com,Crocodoc,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://stackq.com,http://stackq.com,Stackq,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://senic.com,http://senic.com,Senic,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://renthop.com,http://renthop.com,RentHop,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://gocomm.com,http://gocomm.com,GoComm,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://familyleaf.com,http://familyleaf.com,FamilyLeaf,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://yesgraph.com,http://yesgraph.com,YesGraph,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://paperlinks.com,http://paperlinks.com,PayDragon,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://embed.ly,http://embed.ly/pricing,Embedly,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://instawork.com,http://instawork.com/pricing,Instawork,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://podium.com,https://podium.com/pricing,Podium,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://matterport.com,http://matterport.com/plans,Matterport,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://interstateanalytics.com,http://interstateanalytics.com,Interstate Analytics,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://heysan.com,http://heysan.com,Heysan,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://thesixtyone.com,http://thesixtyone.com/pricing,Recurious,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://lockitron.com,http://lockitron.com,Lockitron,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://getdango.com,http://getdango.com,Whirlscape,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://shoptiques.com,http://shoptiques.com,Shoptiques,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://nimblerx.com,http://nimblerx.com,NimbleRx,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://undergroundcellar.com,http://undergroundcellar.com,Underground Cellar,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://jamglue.com,http://jamglue.com,Jamglue,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://xobni.com,http://xobni.com,Xobni,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://gusto.com,https://gusto.com,Gusto,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://onemonth.com,http://onemonth.com/pricing,One Month,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://carwoo.com,http://carwoo.com,CarWoo,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://messageparty.com,http://messageparty.com,MessageParty,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.Avametric.com,http://www.Avametric.com,Avametric,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://letote.com,http://letote.com,Le Tote,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://debteye.com,http://debteye.com/pricing,Debteye,FREE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://fontawesome.com,http://fontawesome.com/plans,Font Awesome,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://nomiku.com,http://nomiku.com,Nomiku,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://thinkature.com,http://thinkature.com,Thinkature,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://cleverdeck.com,http://cleverdeck.com,CleverDeck,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.panoramaed.com/,https://www.panoramaed.com/pricing,Panorama Education,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://virool.com,http://virool.com,Virool,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://getchute.com,http://getchute.com,Chute,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.framed.io,http://www.framed.io,Framed Data,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://wayup.com,http://wayup.com,WayUp,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://wakemate.com,http://wakemate.com,Wakemate,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.unimadx.com,http://www.unimadx.com,Unima,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://optimizely.com,http://optimizely.com/pricing,Optimizely,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.wattvision.com,http://www.wattvision.com,Wattvision,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://talkito.com,http://talkito.com,Talkito,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.makeschool.com,http://www.makeschool.com,Make School,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://paralleluniverse.co,http://paralleluniverse.co,Parallel Universe,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://airpair.com,http://airpair.com,AirPair,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://immunityproject.org,http://immunityproject.org,Immunity Project,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://cleanly.com,https://cleanly.com/pricing,Cleanly,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://GoBonfire.com,http://GoBonfire.com,Bonfire,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://streak.com,http://streak.com/pricing,Streak,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://watchsend.com,http://watchsend.com,Watchsend,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://pixelapse.com,http://pixelapse.com,Pixelapse,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://auctomatic.com,http://auctomatic.com,Auctomatic,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://tsumobi.com,http://tsumobi.com,Tsumobi,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://aisle50.com,http://aisle50.com,Aisle50,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://lob.com,http://lob.com/pricing,Lob,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://facebook.com/live/producer,http://facebook.com/live/producer/pricing,Vidpresso,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://skysheet.com,http://skysheet.com,Skysheet,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://givespark.com/,http://givespark.com/,GiveSpark,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://foodoro.com,http://foodoro.com,Foodoro,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://screenleap.com,https://screenleap.com/pricing,Screenleap,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://salt.security/,https://salt.security,Salt Security,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://minefold.com,http://minefold.com,Minefold,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://vetpronto.com,http://vetpronto.com,VetPronto,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://nowmov.com,http://nowmov.com,Nowmov,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://zencoder.com,http://zencoder.com/pricing,Zencoder,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.volantio.com,http://www.volantio.com,Volantio,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://patchworksecurity.com,http://patchworksecurity.com,Patchwork Security,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://youthere.com,http://youthere.com,Assorted Bits,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://registrylove.com,http://registrylove.com,RegistryLove,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.aptible.com,https://www.aptible.com/pricing,Aptible,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://eightsleep.com,http://eightsleep.com,Eight Sleep,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://amulyte.com,http://amulyte.com,Amulyte,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.scienceexchange.com/,https://www.scienceexchange.com,Science Exchange,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://microeval.com,http://microeval.com,MicroEval,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://scoutzie.com,http://scoutzie.com,Scoutzie,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://realcrowd.com,http://realcrowd.com/pricing,RealCrowd,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://airbnb.com,http://airbnb.com,Airbnb,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://mashgin.com,http://mashgin.com,Mashgin,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,unknown,https://www.ycombinator.com/companies/shasqi,Shasqi,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://omgpop.com,https://omgpop.com,OMGPop,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://zipphone.com,http://zipphone.com/pricing,Zip Phone,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.quartzy.com,https://www.quartzy.com/pricing,Quartzy,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.bus.com,http://www.bus.com,Bus.com,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://go1.com,https://go1.com/pricing,Go1,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://spirehealth.com/,https://spirehealth.com/,Spire Health,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://quantierra.com,http://quantierra.com,Quantierra,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://traversalnetworks.com,http://traversalnetworks.com,Traversal Networks,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://likebetter.com,http://likebetter.com,Likebetter,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://reebee.com,http://reebee.com/pricing,Reebee,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://backpackbang.com,http://backpackbang.com,Backpack,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.ebrandvalue.com/,https://www.ebrandvalue.com/pricing,eBrandvalue,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://freshplum.com,http://freshplum.com,Freshplum,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://codecademy.com,http://codecademy.com/pricing,Codecademy,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://iamexec.com/,http://iamexec.com,Exec,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://ownlocal.com,http://ownlocal.com,OwnLocal,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.yhat.com,https://www.yhat.com,Yhat,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://www.metavision.com/,http://www.metavision.com/,Meta,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://remail.com,http://remail.com,reMail,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.bannerman.com,https://www.bannerman.com/pricing,Bannerman,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://getenflux.com,http://getenflux.com,Enflux,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://vastrm.com,http://vastrm.com,Vastrm,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://doublerobotics.com,https://doublerobotics.com/pricing,Double Robotics,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://viacycle.com,http://viacycle.com,Viacycle,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://raventech.com,http://raventech.com,Raven Tech,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://echodio.com,http://echodio.com/pricing,Echodio,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.equipmentshare.com,https://www.equipmentshare.com,EquipmentShare,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://arcusfi.com,http://arcusfi.com,Arcus,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.lumi.com,https://www.lumi.com,Lumi,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://parenthoods.co,http://parenthoods.co,Parenthoods,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://inklingmarkets.com,http://inklingmarkets.com,Inkling,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://goteleport.com,https://goteleport.com/pricing,Teleport,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://audobox.com,http://audobox.com,Audobox,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://lugg.com,http://lugg.com,Lugg,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.apollo.io/,https://www.apollo.io/pricing,Apollo.io,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://amplitude.com,https://amplitude.com/pricing,Amplitude,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.dyspatch.io,https://www.dyspatch.io,Dyspatch,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://gamador.com,http://gamador.com,Gamador,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://segment.com,http://segment.com/pricing,Segment,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.mobydish.com,https://www.mobydish.com,Mobydish,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://clustrix.com,http://clustrix.com/pricing,Clustrix,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.lucirahealth.com/,https://www.lucirahealth.com/,Lucira Health,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://proxino.com,http://proxino.com,Proxino,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://giveffect.com,http://giveffect.com/pricing,Giveffect,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://trycelery.com,https://trycelery.com,Celery,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://milkshakelabs.com,http://milkshakelabs.com,Coco Controller,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://creativemarket.com,https://creativemarket.com,Creative Market,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://citusdata.com,http://citusdata.com/pricing,Citus Data,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://spaceslife.com,http://spaceslife.com,Spaces Life,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://lendup.com,http://lendup.com,LendUp,FREE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://plivo.com,https://plivo.com/pricing,Plivo,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://buttersystems.com,http://buttersystems.com,Butter Systems,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://zenedy.com,http://zenedy.com,Zenedy,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://bikanta.com,http://bikanta.com,Bikanta,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://glassjar.co,http://glassjar.co,Glassjar,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://triplebyte.com,https://triplebyte.com,Triplebyte,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://tilt.com,http://tilt.com/pricing,Tilt,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://zillabyte.com,http://zillabyte.com,Zillabyte,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://,http://,Vive,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://alexkrupp.com,http://alexkrupp.com,LaunchHear,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://getsaida.com,http://getsaida.com,Saida,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://dealyze.com,http://dealyze.com,Dealyze,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://statuspage.io,http://statuspage.io/pricing,StatusPage,FREEMIUM,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.billforward.io/,https://www.billforward.io/pricing,Billforward,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://agilemd.com,https://agilemd.com,AgileMD,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://thinair.com,http://thinair.com,ThinAir,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://imicrobes.com,http://imicrobes.com,Industrial Microbes,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://gitlab.com/,http://gitlab.com/price,GitLab,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://marft.com,http://marft.com,Marft,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,stypi.com,stypi.com,Stypi,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://140fire.com,http://140fire.com,All Screen,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://leadersintech.org,http://leadersintech.org,Leaders In Tech,PAID,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://adthrow.com,http://adthrow.com,AdThrow,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://layerbylayer.com,http://layerbylayer.com,Layer By Layer,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://www.yardbook.com,https://www.yardbook.com,Yardbook,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://talkray.com,http://talkray.com,Talkray (TiKL),,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://dealupa.com,http://dealupa.com,Zipio,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://teaBOT.com,http://teaBOT.com,teaBOT,ENTERPRISE,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://fithub.com,http://fithub.com,Fithub,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://cardpool.com,http://cardpool.com,Cardpool,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://instantq.com,http://instantq.com,Instantq,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://studyedge.com,http://studyedge.com,Study Edge,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://kuhcoon.com,http://kuhcoon.com,Automate Ads,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://fountain.com,http://fountain.com,Fountain,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://everyday.me,http://everyday.me,Everyday.me,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://joingrouper.com,http://joingrouper.com,Grouper,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://sericapay.com,http://sericapay.com,Serica,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://getgoing.com,http://getgoing.com,GetGoing,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://bop.fm,http://bop.fm,Bop.fm,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://heyzap.com,http://heyzap.com,Heyzap,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://thread.com,http://thread.com,Thread,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://chillabit.io,https://chillabit.io,Chillabit,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://shoutfit.com,http://shoutfit.com,Shoutfit,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://projectwedding.com,http://projectwedding.com,Project Wedding,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://pollground.com,http://pollground.com,Pollground,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://cueup.com,http://cueup.com,Cue,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://pingm.net,http://pingm.net,PhoneSys,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://zanbazaar.com,http://zanbazaar.com,Zanbazaar,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://answerly.com,http://answerly.com,Answerly,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://divvyshot.com,http://divvyshot.com,Divvyshot,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://jumpchat.com,http://jumpchat.com,Jumpchat,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://cryptoseal.com,http://cryptoseal.com,Cryptoseal,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://cloudkick.com,http://cloudkick.com,Cloudkick,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://springwit.com,http://springwit.com,SpringWit,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,https://snipshot.com,https://snipshot.com,Snipshot,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://picurio.com,http://picurio.com,Picurio,,2026-08-10T09:46:23.371408+00:00
+1.0,PRODUCT,http://goodybag.com,http://goodybag.com,Goodybag,,2026-08-10T09:46:23.371408+00:00
